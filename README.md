@@ -7,7 +7,7 @@ Greetings!
 The repository contains projects done either independently or as a part of professional courses,
 including the "Data Science specialist" apprenticeship program by Yandex Practicum.
 If a direct URL is given, the project's available.
-The [The repository in Russian](https://github.com/idrv/portfolio-rus) is usually one step ahead,
+[The repository in Russian](https://github.com/idrv/portfolio-rus) is usually one step ahead,
 as the projects were documented in Russian in the first place.
 
 1. [Saint-Petersburg's realty market study](https://github.com/idrv/portfolio-eng/tree/main/Saint-PetersburgRealtyStudyEng)
