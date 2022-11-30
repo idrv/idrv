@@ -7,7 +7,7 @@ Greetings!
 The repository contains projects done either independently or as a part of professional courses,
 including the "Data Science specialist" apprenticeship program by Yandex Practicum.
 If a direct URL is given, the project's available.
-[The repository in Russian](https://github.com/idrv/portfolio-rus) is usually one step ahead,
+[The repository in Russian](#link2) is usually one step ahead,
 as the projects were documented in Russian in the first place.
 
 1. [Saint-Petersburg's realty market study](https://github.com/idrv/portfolio-eng/tree/main/Saint-PetersburgRealtyStudyEng)
@@ -32,7 +32,7 @@ as the projects were documented in Russian in the first place.
 
 В репозитории размещаются проекты, выполненные самостоятельно и в рамках обучающих курсов, включая курс "Специалист по Data Science"
 от Яндекс Практикум. Если на проект указана прямая ссылка - он уже размещен.
-[The repository in English is also availible](https://github.com/idrv/portfolio-eng).
+[The repository in English](#link1) is also availible.
 
 1. [Исследование рынка недвижимости Санкт-Петербурга](https://github.com/idrv/portfolio-rus/tree/main/Saint-PetersburgRealtyStudy)
 2. "Для вас специальное предложение": модель определения наиболее подходящего тарифа для пользователей мобильной связи
@@ -46,4 +46,4 @@ as the projects were documented in Russian in the first place.
 10. Модель прогнозирования отказа клиента от услуг оператора связи
 11. "В интернете кто-то не прав": модель определения токсичности комментариев
 
-<a href="#link1"><img src='https://img.shields.io/badge/Back on top-&#x21A9-yellow'></a>
+<a href="#link1"><img src='https://img.shields.io/badge/Back to Top-&#x21A9-yellow'></a>
