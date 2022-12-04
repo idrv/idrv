@@ -32,7 +32,7 @@ as the projects were documented in Russian in the first place.
 
 В репозитории размещаются проекты, выполненные самостоятельно и в рамках обучающих курсов, включая курс "Специалист по Data Science"
 от Яндекс Практикум. Если на проект указана прямая ссылка - он уже размещен.
-[The repository in English](#link1) is also availible.
+[The repository in English](#link1) is also available.
 
 1. [Исследование рынка недвижимости Санкт-Петербурга](https://github.com/idrv/portfolio-rus/tree/main/Saint-PetersburgRealtyStudy#readme)
 2. "Для вас специальное предложение": модель определения наиболее подходящего тарифа для пользователей мобильной связи
