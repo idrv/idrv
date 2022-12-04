@@ -37,7 +37,7 @@ as the projects were documented in Russian in the first place.
 1. [Исследование рынка недвижимости Санкт-Петербурга](https://github.com/idrv/portfolio-rus/tree/main/Saint-PetersburgRealtyStudy)
 2. "Для вас специальное предложение": модель определения наиболее подходящего тарифа для пользователей мобильной связи
 3. [Сравнение выручки от тарифов оператора мобильной связи](https://github.com/idrv/portfolio-rus/blob/main/CompairingRevenuesCellPhonePlans/README.md)
-4. Компьютерные игры: связь их характеристик и объемов продаж
+4. [Компьютерные игры: связь их характеристик и объемов продаж](https://github.com/idrv/portfolio-rus/tree/main/ComputerGamesFeaturesSalesConnection#readme)
 5. "Сел и поехал": разработка модели определения рыночной стоимости автомобиля с минимальным временем обучения и отклика
 6. Модель прогнозирования отказа клиента от услуг банка
 7. Определение региона с максимальной прибыльностью и наименьшими коммерческими рисками для добычи полезных ископаемых
