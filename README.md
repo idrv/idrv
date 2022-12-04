@@ -10,7 +10,7 @@ If a direct URL is given, the project's available.
 [The repository in Russian](#link2) is usually one step ahead,
 as the projects were documented in Russian in the first place.
 
-1. [Saint-Petersburg's realty market study](https://github.com/idrv/portfolio-eng/tree/main/Saint-PetersburgRealtyStudyEng)
+1. [Saint-Petersburg's realty market study](https://github.com/idrv/portfolio-eng/tree/main/Saint-PetersburgRealtyStudyEng#readme)
 2. "We've got a special offer for you!": a model to classify a cell phone plan most relevant to the client's needs
 3. Comparing revenues from cell phone operator's plans
 4. Computer games: how its features and sales are connected
@@ -34,9 +34,9 @@ as the projects were documented in Russian in the first place.
 от Яндекс Практикум. Если на проект указана прямая ссылка - он уже размещен.
 [The repository in English](#link1) is also availible.
 
-1. [Исследование рынка недвижимости Санкт-Петербурга](https://github.com/idrv/portfolio-rus/tree/main/Saint-PetersburgRealtyStudy)
+1. [Исследование рынка недвижимости Санкт-Петербурга](https://github.com/idrv/portfolio-rus/tree/main/Saint-PetersburgRealtyStudy#readme)
 2. "Для вас специальное предложение": модель определения наиболее подходящего тарифа для пользователей мобильной связи
-3. [Сравнение выручки от тарифов оператора мобильной связи](https://github.com/idrv/portfolio-rus/blob/main/CompairingRevenuesCellPhonePlans/README.md)
+3. [Сравнение выручки от тарифов оператора мобильной связи](https://github.com/idrv/portfolio-rus/blob/main/CompairingRevenuesCellPhonePlans/#readme)
 4. [Компьютерные игры: связь их характеристик и объемов продаж](https://github.com/idrv/portfolio-rus/tree/main/ComputerGamesFeaturesSalesConnection#readme)
 5. "Сел и поехал": разработка модели определения рыночной стоимости автомобиля с минимальным временем обучения и отклика
 6. Модель прогнозирования отказа клиента от услуг банка
